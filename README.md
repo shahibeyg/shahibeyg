@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahibeyg
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on something
+- 👀 I’m interested in Python and Stock Market Data Analysis
+- 🌱 I’m currently learning ?????
+- 💞️ I’m (never) looking to collaborate on something
 - 📫 How to reach me shahibeyg[at]outlook[dot]com
 
 <!---
